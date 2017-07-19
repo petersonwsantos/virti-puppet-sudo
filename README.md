@@ -1,2 +1,2 @@
 # virti-puppet-sudo
-ViRti - Puppet module for Sudo
+ViRTi - Puppet module for Sudo
